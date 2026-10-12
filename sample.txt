@@ -1,0 +1,2 @@
+hello, 
+created a sample file for handling git and git hub
